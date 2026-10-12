@@ -1,4 +1,4 @@
-# 🌐 SpectraSocial - Enterprise Social Networking Platform
+# 🌐 SpectraAgora - Enterprise Social Networking Platform
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 💎 Core Value Proposition
 
-SpectraSocial replaces fragmented internal tools (email chains, bulletin boards, spreadsheets, separate chat apps) with one unified platform:
+SpectraAgora replaces fragmented internal tools (email chains, bulletin boards, spreadsheets, separate chat apps) with one unified platform:
 
 | Feature | Description |
 |---------|-------------|
@@ -477,7 +477,7 @@ All jobs are configurable via environment variables and can be enabled or disabl
 
 ### 🏢 Multi-Tenancy Model
 
-SpectraSocial uses a **single-database, shared-schema** multi-tenancy model:
+SpectraAgora uses a **single-database, shared-schema** multi-tenancy model:
 
 - 🔑 Every table that holds tenant data includes an `organization_id` foreign key.
 - 🔒 All API queries are scoped to the authenticated user's organization.
@@ -556,7 +556,7 @@ The platform uses **Server-Sent Events (SSE)** for real-time features:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║                    🌐 SpectraSocial — System Overview                   ║
+║                    🌐 SpectraAgora — System Overview                   ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
 ║   👤 Users (Browser / Mobile)                                            ║
