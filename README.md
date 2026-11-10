@@ -1,11 +1,27 @@
 # SpectraAgora
 
-SpectraAgora is an internal social network and digital workplace for organizations. It brings employee discussions, team messaging, events, internal recruitment, and a marketplace into one workspace. Each organization manages its own members, content, and access rules.
+**An internal social network and digital workplace for organizations**
 
-This repository contains the public product overview. The in-app **Help** page provides step-by-step guidance for members, moderators, and tenant administrators. Features available to a member depend on their workspace configuration, role, and deployed release.
+## Introduction
+
+SpectraAgora gives colleagues a shared place to communicate, share knowledge, and stay connected to their organization. A discussion can start in a feed, continue in a private conversation, and become a decision or an action with a clear owner.
+
+Each organization manages its own workspace, members, content, and access rules. This repository provides a public overview of the product. Feature availability depends on the deployed release, workspace configuration, and member permissions.
+
+### At a glance
+
+| Workspace area | What teams can do |
+| --- | --- |
+| 📰 **Feeds** | Publish updates, discuss questions, and curate useful answers and resources. |
+| 💬 **Messaging** | Find direct and group conversations, share files, and send voice messages. |
+| 📅 **Events** | Organize recurring events, manage attendance, and keep follow-up with the event. |
+| 🤝 **People and careers** | Discover skills, connect with mentors, recognize contributions, and find internal opportunities. |
+| 🛒 **Marketplace** | Browse listings, bid in auctions, and follow price or availability updates. |
+| 🧭 **Workspace guide** | Find suggested feeds and resources, and learn the workflows available to your role. |
 
 ## Contents
 
+- [Introduction](#introduction)
 - [Feeds and collaboration](#feeds-and-collaboration)
 - [Messaging and audio](#messaging-and-audio)
 - [Events and calendar](#events-and-calendar)
@@ -100,4 +116,6 @@ flowchart TD
 
 Open **Help** in your SpectraAgora workspace for the member and tenant administration guide. Use the in-app support center to report a problem, attach relevant information, and follow its status.
 
-Built by [SpectraEYE](https://github.com/SpectraEYEHQ).
+---
+
+<p align="center"><strong>Built with ❤️ by the SpectraEYE Team</strong></p>
