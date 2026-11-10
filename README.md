@@ -1,6 +1,12 @@
-# <p align="center">SpectraAgora</p>
+<h1 align="center">🌐 SpectraAgora</h1>
 
-**An internal social network and digital workplace for organizations**
+<p align="center"><strong>Internal Social Network &amp; Digital Workplace</strong></p>
+
+<p align="center">
+  <a href="https://agora.spectraeye.app/">Open SpectraAgora</a> ·
+  <a href="#key-features">Explore features</a> ·
+  <a href="#getting-started">Getting started</a>
+</p>
 
 ## Introduction
 
@@ -8,7 +14,7 @@ SpectraAgora gives colleagues a shared place to communicate, share knowledge, an
 
 Each organization manages its own workspace, members, content, and access rules. This repository provides a public overview of the product. Feature availability depends on the deployed release, workspace configuration, and member permissions.
 
-### At a glance
+### Key features
 
 | Workspace area | What teams can do |
 | --- | --- |
@@ -18,6 +24,11 @@ Each organization manages its own workspace, members, content, and access rules.
 | 🤝 **People and careers** | Discover skills, connect with mentors, recognize contributions, and find internal opportunities. |
 | 🛒 **Marketplace** | Browse listings, bid in auctions, and follow price or availability updates. |
 | 🧭 **Workspace guide** | Find suggested feeds and resources, and learn the workflows available to your role. |
+
+### Getting started
+
+1. Open SpectraAgora and sign in to your organization. If you received an invitation, follow the link in your email.
+2. Open **Workspace guide** to find suggested feeds and resources. Use **Help** for step-by-step guidance in your workspace.
 
 ## Contents
 
