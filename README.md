@@ -1,4 +1,4 @@
-# SpectraAgora
+<p align="center"># SpectraAgora</p>
 
 **An internal social network and digital workplace for organizations**
 
